@@ -18,7 +18,7 @@ services:
       - APP_SECRET_KEY=supersecret
       - MURMUR_ICE_HOST=murmurd
       - MURMUR_ICE_PORT=6502
-      - ENABLE_AUTH=True
+      - ENABLE_AUTH=False
       - USERS=admin:password,admin2:password2
       - VIRTUAL_HOST=localhost
     ports:
