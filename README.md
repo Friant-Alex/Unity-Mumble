@@ -2,7 +2,7 @@
  
  Umity-Mumble is a project to showcase the creation of a Mumble server utilizing [murmur-rest](https://github.com/alfg/murmur-rest) and the management of that server using Unity. 
 
- ![](C:/Users/alexfriant/Pictures/MumbleTest.gif?raw=true "Title")
+ ![](https://github.com/Friant-Alex/Unity-Mumble/assets/124896037/b18ec4ff-2053-46a2-9a0e-67233e931c3b)
 
 
  ### Murmur-rest
